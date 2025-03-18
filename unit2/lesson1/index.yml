@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lesson1
+title: Lesson 2.1
+description: My new lesson
+standards:
+  - csta-student:1b-cs-03
+  - csta-student:1b-ni-04
+  - csta-student:1b-ap-10
+  - csta-student:3a-ic-28
+  - csta-student:3a-ni-07
+lessonParts:
+  - lessonpart1.yml
